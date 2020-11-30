@@ -61,3 +61,6 @@
    font-family: great_vibes;
    src: url(fonts/GreatVibes-Regular.ttf) format('truetype');
 }
+.center{
+	text-align: center;
+}
