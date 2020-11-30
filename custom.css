@@ -1,0 +1,66 @@
+.logo-img{
+	width: 200px;
+    background: transparent;
+}
+.font-60{
+	font-size: 60px !important;
+}
+.font-35{
+	font-size: 35px !important;
+}
+.icon-img{
+	height:72px;
+	margin: 0 auto;
+}
+.bold{
+	font-weight: 600;
+	color: #72281e;
+	font-size: 16px;
+}
+.info{
+	font-size: 16px !important;
+	text-align: justify;
+}
+.text-justify{
+	text-align: justify;
+}
+.italic{
+	font-style: italic;
+	font-size: 16px;
+	color: #000;
+	font-weight: 600;
+}
+.span-italic{
+	font-style: italic;
+	color: #72281e;
+	font-weight: 400;
+}
+.text-bold{
+	font-weight: 600 !important;
+}
+.service-btn{
+	background: #222;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    padding: 0 57px;
+    box-shadow: none;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 50px;
+    border-radius: 50px;
+    border: 0;
+    outline: none !important;
+    cursor: pointer;
+}
+.service-btn a {
+	color: #ffffff !important;
+}
+@font-face {
+   font-family: great_vibes;
+   src: url(fonts/GreatVibes-Regular.ttf) format('truetype');
+}
+.center{
+	text-align: center;
+}
