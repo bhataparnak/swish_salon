@@ -56,7 +56,7 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
 
 body {
   margin: 0;
-  font-family: "Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: "Work Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol","great_vibes";
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -7304,7 +7304,7 @@ h1, h2, h3, h4, h5,
   color: #72281e !important; }
 
 .ftco-navbar-light {
-  background: #fcfcfc !important;
+  background: #ffffff !important;
   z-index: 3;
   -webkit-box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.07);
   box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.07); }
